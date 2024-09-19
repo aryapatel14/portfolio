@@ -16,7 +16,7 @@ export default function Contact() {
           Let's Get In Touch!
         </h2>
         <p className="lg:text-lg lg:text-start text-muted-foreground">
-        I&#39;m always open to connecting, whether it&#39;s for inquiries, conversations, or exciting opportunities. Feel free to reach out anytime, and let's explore the endless possibilities together!
+        I&#39;m always open to connecting, whether it&#39;s for inquiries, conversations, or exciting opportunities. Feel free to reach out anytime, and let&#39;s explore the endless possibilities together!
         </p>
       </div>
       <div className="flex flex-row justify-center items-center gap-4 lg:px-6 mb-4">
