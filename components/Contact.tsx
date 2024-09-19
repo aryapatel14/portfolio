@@ -8,16 +8,15 @@ export default function Contact() {
     <section id="contact" className="scroll-mt-16 lg:mt-16">
       <div className="sticky top-0 z-20 -mx-6 mb-4 w-screen bg-background/0 px-6 py-5 backdrop-blur md:-mx-12 md:px-12 lg:sr-only lg:relative lg:top-auto lg:mx-auto lg:w-full lg:px-0 lg:py-0 lg:opacity-0">
         <h2 className="text-sm font-bold uppercase tracking-widest lg:sr-only">
-          Get In Touch!
+          Let's Get In Touch!
         </h2>
       </div>
       <div className="flex flex-col gap-4 lg:px-6 mb-8">
         <h2 className="lg:block hidden text-5xl font-bold lg:text-start">
-          Get In Touch!
+          Let's Get In Touch!
         </h2>
         <p className="lg:text-lg lg:text-start text-muted-foreground">
-          If you&#39;re considering my contribution, have a question, or just
-          want to say hi, you can count on hearing back from me!
+        I&#39;m always open to connecting, whether it&#39;s for inquiries, conversations, or exciting opportunities. Feel free to reach out anytime, and let's explore the endless possibilities together!
         </p>
       </div>
       <div className="flex flex-row justify-center items-center gap-4 lg:px-6 mb-4">

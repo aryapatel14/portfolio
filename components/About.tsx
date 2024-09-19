@@ -10,7 +10,7 @@ export default function About() {
       </div>
       <div className="flex flex-col gap-4">
         <p className="text-start text-muted-foreground lg:px-6">
-        With a deep passion for technology and innovation, I’m eager to explore the fields of software development & product design to create impactful and seamless user experiences.
+        With a passion for technology and innovation, I’m eager to explore the fields of software development & product design to create impactful and seamless user experiences.
         </p>
         <p className="text-start  text-muted-foreground lg:px-6">
         I’m particularly drawn to designing solutions that simplify complex technical challenges. Whether it’s developing software, refining product strategies, or leveraging AI, I enjoy turning ideas into polished, functional products that make a difference.
