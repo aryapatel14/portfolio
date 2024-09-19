@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     url: "https://www.aryapatel.me/",
     images: [
       {
-        url: "./og-large-meik-2.jpg",
+        url: "./background.jpg",
       },
     ],
   },
