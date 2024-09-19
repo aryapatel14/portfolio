@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     locale: "en_US",
     siteName: "Alexander Meikopoulos",
     type: "website",
-    title: "Alexander Meikopoulos",
+    title: "Arya Patel",
     description:
       "Alexander Meikopoulos is a Product designer, developer & founder.",
     url: "https://meikopoulos.com",
