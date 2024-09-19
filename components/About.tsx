@@ -1,5 +1,4 @@
 "use client";
-/* eslint-disable */
 
 export default function About() {
   return (
@@ -11,41 +10,14 @@ export default function About() {
       </div>
       <div className="flex flex-col gap-4">
         <p className="text-start text-muted-foreground lg:px-6">
-          Throughout my journey from coding to design, I've been guided by a
-          simple belief:{" "}
-          <span className="text-white">
-            technology should feel natural and intuitive.
-          </span>{" "}
-          At the crossroads of AI, Web3, and Finance, I focus on creating user
-          experiences that make complex ideas accessible.
+        With a deep passion for technology and innovation, I’m eager to explore the fields of software development & product design to create impactful and seamless user experiences.
         </p>
         <p className="text-start  text-muted-foreground lg:px-6">
-          Currently, I'm leading product design at a stealth AI startup that's
-          rethinking how we interact with money. I'm also steering the design
-          team at{" "}
-          <a
-            className="no-wrap text-primary dark:text-white"
-            href="https://vela.exchange"
-            target="blank"
-            rel="noopener noreferrer"
-          >
-            Vela Exchange
-          </a>
-          , a decentralized platform for perpetual trading. As a co-founder,
-          designer, and developer at{" "}
-          <a
-            className="no-wrap text-primary dark:text-white"
-            href="https://swoop.exchange"
-            target="blank"
-            rel="noopener noreferrer"
-          >
-            Swoop Exchange
-          </a>
-          , I've helped build a meta-aggregation engine used daily by thousands
-          of users.
+        I’m particularly drawn to designing solutions that simplify complex technical challenges. Whether it’s developing software, refining product strategies, or leveraging AI, I enjoy turning ideas into polished, functional products that make a difference.
         </p>
         <p className="text-start text-muted-foreground lg:px-6">
-          AHELLO HELLO HELLO TESTING!
+        Outside of work, I’m passionate about traveling and art, which inspire my creativity and keep me curious. I’m actively seeking opportunities to collaborate on projects & work that push boundaries and allow me to contribute to the future of digital experiences.
+
         </p>
       </div>
     </section>

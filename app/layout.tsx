@@ -7,23 +7,23 @@ import { Analytics } from "@vercel/analytics/react";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://meikopoulos.com"),
+  metadataBase: new URL("https://www.aryapatel.me/"),
   alternates: {
-    canonical: "https://meikopoulos.com",
+    canonical: "https://www.aryapatel.me/",
   },
-  title: "Alexander Meikopoulos - Product Designer in AI, Web3, and Finance",
+  title: "Arya Patel",
   description:
-    "Alexander Meikopoulos is a Product designer, developer & founder.",
+    "Arya Patel Site.",
   keywords:
-    "Alexander Meikopoulos, Product Designer, AI, Web3, Finance, User Experience, UI/UX Design, Design Systems, Front-end Development, Decentralized Finance, DeFi, Swoop Exchange, Vela Exchange, Stealth AI Startup, Technology, Innovation, Human-Centered Design",
+    "Arya Patel, Site, Website, Portfolio, Arya ",
   openGraph: {
     locale: "en_US",
-    siteName: "Alexander Meikopoulos",
+    siteName: "Arya Patel",
     type: "website",
     title: "Arya Patel",
     description:
-      "Alexander Meikopoulos is a Product designer, developer & founder.",
-    url: "https://meikopoulos.com",
+      "Arya Patel.",
+    url: "https://www.aryapatel.me/",
     images: [
       {
         url: "./og-large-meik-2.jpg",
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Alexander Meikopoulos",
+    title: "Arya Patel",
   },
 };
 
