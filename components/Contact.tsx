@@ -30,7 +30,6 @@ export default function Contact() {
             <div className="flex flex-row items-center">
               <Mail className="dark:text-white text-muted h-6 w-6" />
               <p className="ml-3 text-2xl dark:text-white text-muted">
-                Say hello
               </p>
             </div>
           </Button>
