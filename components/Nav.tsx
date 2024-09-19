@@ -54,13 +54,13 @@ export default function Nav() {
           </Avatar>
         </div>
         <h1 className="text-[42px] font-bold lg:text-start">
-          Hi, i&#39;m Arya Patel! 👋
+          Hi, I&#39;m Arya Patel! 👋
         </h1>
         <h2 className="text-xl lg:text-start">
           Systems Design Engineering Student @ University of Waterloo.
         </h2>
         <p className="text-lg lg:text-start text-muted-foreground">
-          Seeking Summer 2025 Internships.
+          🚀 Seeking Summer 2025 Internship Opportunities.
         </p>
       </div>
       <nav className="lg:flex hidden">
