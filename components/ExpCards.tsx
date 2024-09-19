@@ -39,7 +39,7 @@ const jobPositions = [
       "",
     ],
     description:
-      "Spearheaded version update of the scripting platform for the VxWorks and Wind River Studio, encompassing product reports, database analytics & performance scripts. Managed automated cloud CI/CD pipelines for tailored workflows in assembling embedded software systems.",
+      "Spearheaded version update of the scripting platform for the VxWorks OS and Wind River Cloud Studio, encompassing product reports, database analytics & performance scripts. Managed automated cloud CI/CD pipelines for tailored workflows in assembling embedded software systems.",
     skills: [
       "RTOS", 
       "Cloud Dev",
