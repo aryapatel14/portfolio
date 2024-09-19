@@ -45,11 +45,7 @@ export default function About() {
           of users.
         </p>
         <p className="text-start text-muted-foreground lg:px-6">
-          Across all the applications I've been involved with, I've had the
-          privilege to contribute in facilitating billions in transaction
-          volume. I believe in making technology feel human—designing
-          applications and experiences that are seamless extensions of
-          ourselves, serving real needs with simplicity and clarity.
+          AHELLO HELLO HELLO TESTING!
         </p>
       </div>
     </section>
