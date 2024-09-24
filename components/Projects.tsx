@@ -20,6 +20,21 @@ const jobProjects = [
     // link: "",
   },
   {
+    imagePath: "/lung.png",
+    title: "Lung Cancer Detection Tool",
+    description:
+      "This Python project uses transfer learning to build a deep learning model that classifies normal and cancerous lung tissues from medical images, leveraging a pre-trained neural network for improved accuracy and efficiency.",
+    skills: [
+      "Pandas",
+      "Numpy",
+      "Matplotlib",
+      "Sklearn",
+      "OpenCV",
+      "TensorFlow",
+    ],
+    link: "https://github.com/aryapatel14/lung-cancer-detection",
+  },
+  {
     imagePath: "/cycle.png",
     title: "Cycle",
     description:
